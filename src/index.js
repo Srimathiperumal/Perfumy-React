@@ -3,7 +3,7 @@ import reactDom from "react-dom/client"
 import "./style.css"
 
 
-import App from "./app.js"
+import App from "./app"
 
 
 
